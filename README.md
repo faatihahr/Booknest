@@ -6,10 +6,11 @@
 
 ## How To Install
 
--Letakkan folder di htdocs
--Buat database dengan nama booknest
+-Run command "composer update" di terminal
+-Buat database dengan nama pustaka2
 -Import file pustaka2.sql
--ubah base_url pada application\config\config.php sesuai dengan nama folder, contoh : http://localhost/booknest/
+-Ubah base_url pada application\config\config.php sesuai dengan nama folder, contoh : http://localhost/pustaka2/
+-Jalankan dengan "php artisan service"
 
 ## License
 
