@@ -7,9 +7,13 @@
 ## How To Install
 
 -Run command "composer update" di terminal
+
 -Buat database dengan nama pustaka2
+
 -Import file pustaka2.sql
+
 -Ubah base_url pada application\config\config.php sesuai dengan nama folder, contoh : http://localhost/pustaka2/
+
 -Jalankan dengan "php artisan service"
 
 ## License
